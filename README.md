@@ -12,6 +12,7 @@ Make sure Roblox is running
 Open Bootstrapper.exe
 Choose mesh
 Join game
+*for MAC (macOS) user, message me I'll help you to use (not exe)
 ```
 
 Yippee,
