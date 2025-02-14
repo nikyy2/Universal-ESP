@@ -1,8 +1,9 @@
-import psutil
-import os
-import requests
-from time import sleep
-
+import os 
+try:
+    import psutil,requests
+except:
+    os.system("pip install psutil")
+    os.system("pip install requests")
 folder_path = None
         
 def find_roblox_process():
