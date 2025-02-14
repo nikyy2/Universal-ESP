@@ -50,7 +50,6 @@ def show_main_menu():
 
 if __name__ == "__main__":
     os.system("cls")
-    check_killswitch()
     find_roblox_process()
     
     if folder_path:
