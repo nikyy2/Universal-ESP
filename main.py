@@ -1,10 +1,6 @@
 import os 
-try:
-    import psutil,requests
-except:
-    os.system("pip install psutil")
-    os.system("pip install requests")
-folder_path = None
+os.system("pip install psutil")
+os.system("pip install requests")
         
 def find_roblox_process():
     global folder_path
@@ -49,6 +45,7 @@ def show_main_menu():
     return choice
 
 if __name__ == "__main__":
+    import psutil, requests
     os.system("cls")
     find_roblox_process()
     
