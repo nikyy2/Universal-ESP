@@ -1,4 +1,4 @@
-# We go open-source cus why not ;)
+# open-source cus why not ;)
 
 # Universal ESP
 read more at https://www.reddit.com/r/robloxhackers/comments/1ibvfh1/introducing_universal_esp_no_injection_required/ , im lazy to do readme.
