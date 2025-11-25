@@ -1,10 +1,8 @@
-# open-source cus why not ;)
-
 # Universal ESP
 read more at https://www.reddit.com/r/robloxhackers/comments/1ibvfh1/introducing_universal_esp_no_injection_required/ , im lazy to do readme.
 
 ## Infos
-Mesh ESP for r6 and r15 games, best to use in [CounterBlox](https://www.roblox.com/games/301549746/Counter-Blox) or any related fps games.
+Mesh ESP for r6 and r15 games, best to use in [Counter Blox](https://www.roblox.com/games/301549746/Counter-Blox) or any related fps games.
 
 ## How To Use
 Window:
