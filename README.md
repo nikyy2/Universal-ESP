@@ -14,7 +14,7 @@ Window:
 5. Rename any of the mesh you have installed from here to head.mesh and place it in the /heads folder
 6. Reopen Roblox, done!
 ```
-MacOS:
+MacOS (*edited, thanks to @ILoveSSH):
 ```
 1. Locate Roblox folder in application folder > right click > show package contents
 2. Go to content > resources > content > avatar > heads
