@@ -18,8 +18,8 @@ Window:
 ```
 MacOS:
 ```
-1. Locate Roblox folder (for example: version-abbc0a1c8cbb4a37)
-2. Go to content > avatar > heads
+1. Locate Roblox folder in application folder > right click > show package contents
+2. Go to content > resources > content > avatar > heads
 3. Delete original head.mesh in /heads folder
 4. Rename any of the mesh you have installed from here to head.mesh and place it in the /heads folder
 5. Reopen Roblox, done!
